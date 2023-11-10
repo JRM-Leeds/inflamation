@@ -4,3 +4,7 @@ some text for the GitHUB training - Some inital data analysis to identify inflam
 
 James Middleton: Research fellow on a git hub course
 John Hodrin: RSE working wiht coding
+
+##citation 
+
+balhblah blah
